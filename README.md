@@ -56,7 +56,7 @@ Full-Stack Social media website using Springboot, React, Websocket and Mysql
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116105-15b9425c-1fec-4a52-84ba-cf97eef93891.png" alt="mockup" /></td>
+    <td><img src="./Screenshots/HomePage.png" alt="mockup" /></td>
     <td><img src="https://user-images.githubusercontent.com/64949957/159116112-1c7dec3e-0f3a-45a8-83d3-6d6b9ee1d5de.png" alt="mockups" /></td>
   </tr>
   <tr>
