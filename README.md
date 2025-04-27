@@ -52,7 +52,7 @@ Full-Stack Social media website using Springboot, React, Websocket and Mysql
 - 😄 Emoji Integration via Emoji Mart
 
 ## Sneak Peek of Home Page 🙈 :
-![home](https://user-images.githubusercontent.com/64949957/159116089-cfc2b4c5-dc7d-4d4b-a0c8-668f89ce5412.png)
+![Home Page](./screenshots/HomePage.png)
 
 <table>
   <tr>
