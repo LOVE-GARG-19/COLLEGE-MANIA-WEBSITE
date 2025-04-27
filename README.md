@@ -57,7 +57,7 @@ Full-Stack Social media website using Springboot, React, Websocket and Mysql
 <table>
   <tr>
     <td><img src="./Screenshots/ProfilePage.png" alt="mockup" /></td>
-    <td><img src="./Screenshots/ChatPagePage.png" alt="mockups" /></td>
+    <td><img src="./Screenshots/ChatPage.png" alt="mockups" /></td>
   </tr>
   <tr>
     <td><img src="./Screenshots/ReelsPage.png" alt="mockup" /></td>
